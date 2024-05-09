@@ -2,12 +2,14 @@
 This project involves analyzing the Boxify dataset to gain insights into sales trends and inventory performance. The analysis aims to provide actionable recommendations for optimizing inventory management practices.
 
 ## Table of Contents
-Introduction
-Dataset
-Project Files
-Analysis Overview
-Usage
-Contributing
+
+- **Introduction**
+- **Dataset**
+- **Project Files**
+- **Analysis Overview**
+- **Usage**
+- **Contributing**
+
 
 ### Introduction
 The Boxify Sales Analysis and Inventory Insights Project focus on leveraging data analysis techniques to extract valuable insights from sales data. By understanding sales trends and inventory performance, businesses can optimize their inventory management practices to reduce costs and enhance operational efficiency.
